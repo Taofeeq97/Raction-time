@@ -1,0 +1,14 @@
+div{
+background-color:blue;
+width:150px;
+height:150px;
+position:relative;
+left:50px;
+top:150px;
+}
+h2{
+position:absolute;
+top:570px;
+left:50%;
+
+}
